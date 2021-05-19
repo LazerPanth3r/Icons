@@ -8,4 +8,8 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="1.1.1.1">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
 </site-list>
